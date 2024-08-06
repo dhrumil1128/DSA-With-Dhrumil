@@ -1,4 +1,7 @@
-# DSA-With-Dhrumil
+Here's the updated README file with your contact information:
+
+---
+
 # DSA Preparation from Scratch
 
 Welcome to the DSA (Data Structures and Algorithms) Preparation repository! This course is designed to develop your programming skills from basic to intermediate levels through a structured approach to Data Structures and Algorithms (DSA).
@@ -88,10 +91,10 @@ We welcome contributions from the community. To contribute:
 
 Ensure your contributions are well-documented and include clear explanations for ease of understanding.
 
-## License
+## Contact
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+For any questions, suggestions, or collaboration, feel free to connect with me:
 
-Happy coding!
+- **Email:** [dhrumilpawar2910@gmail.com](mailto:dhrumilpawar2910@gmail.com)
+- **GitHub:** [dhrumil1128](https://github.com/dhrumil1128)
 
----
